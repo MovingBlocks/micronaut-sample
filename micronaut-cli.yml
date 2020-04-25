@@ -1,5 +1,5 @@
 profile: service
-defaultPackage: micronaut.cassandra.sample
+defaultPackage: org.micronaut.sample
 ---
 testFramework: kotlintest
 sourceLanguage: kotlin
